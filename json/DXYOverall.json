@@ -3,27 +3,27 @@
         {
             "infectSource": "该字段已替换为说明2",
             "passWay": "该字段已替换为说明3",
-            "dailyPic": "https://img1.dxycdn.com/2020/0209/304/3395622307715515876-135.png,https://img1.dxycdn.com/2020/0209/500/3395622320600613307-135.png,https://img1.dxycdn.com/2020/0209/471/3395622333485327662-135.png,https://img1.dxycdn.com/2020/0209/163/3395622348517718202-135.png,https://img1.dxycdn.com/2020/0209/302/3395622361402805639-135.png,https://img1.dxycdn.com/2020/0209/834/3395622376435014382-135.png",
+            "dailyPic": "https://img1.dxycdn.com/2020/0210/902/3395802949745356322-135.png,https://img1.dxycdn.com/2020/0210/364/3395802956187807742-135.png,https://img1.dxycdn.com/2020/0210/392/3395802964777411656-135.png,https://img1.dxycdn.com/2020/0210/505/3395802973367678024-135.png,https://img1.dxycdn.com/2020/0210/410/3395802981957613355-135.png,https://img1.dxycdn.com/2020/0210/099/3395802990547548462-135.png",
             "dailyPics": [
-                "https://img1.dxycdn.com/2020/0209/304/3395622307715515876-135.png",
-                "https://img1.dxycdn.com/2020/0209/500/3395622320600613307-135.png",
-                "https://img1.dxycdn.com/2020/0209/471/3395622333485327662-135.png",
-                "https://img1.dxycdn.com/2020/0209/163/3395622348517718202-135.png",
-                "https://img1.dxycdn.com/2020/0209/302/3395622361402805639-135.png",
-                "https://img1.dxycdn.com/2020/0209/834/3395622376435014382-135.png"
+                "https://img1.dxycdn.com/2020/0210/902/3395802949745356322-135.png",
+                "https://img1.dxycdn.com/2020/0210/364/3395802956187807742-135.png",
+                "https://img1.dxycdn.com/2020/0210/392/3395802964777411656-135.png",
+                "https://img1.dxycdn.com/2020/0210/505/3395802973367678024-135.png",
+                "https://img1.dxycdn.com/2020/0210/410/3395802981957613355-135.png",
+                "https://img1.dxycdn.com/2020/0210/099/3395802990547548462-135.png"
             ],
             "summary": "",
             "countRemark": "",
-            "confirmedCount": 37251,
-            "suspectedCount": 28942,
-            "curedCount": 2684,
-            "deadCount": 812,
-            "seriousCount": 6188,
-            "suspectedIncr": 3916,
-            "confirmedIncr": 2657,
-            "curedIncr": 633,
-            "deadIncr": 89,
-            "seriousIncr": 87,
+            "confirmedCount": 40261,
+            "suspectedCount": 23589,
+            "curedCount": 3533,
+            "deadCount": 909,
+            "seriousCount": 6484,
+            "suspectedIncr": 4008,
+            "confirmedIncr": 3099,
+            "curedIncr": 882,
+            "deadIncr": 97,
+            "seriousIncr": 296,
             "virus": "该字段已替换为说明1",
             "remark1": "易感人群：人群普遍易感。老年人及有基础疾病者感染后病情较重，儿童及婴幼儿也有发病",
             "remark2": "潜伏期：一般为 3～7 天，最长不超过 14 天，潜伏期内可能存在传染性，其中无症状病例传染性非常罕见",
@@ -35,15 +35,10 @@
             "note3": "传播途径：经呼吸道飞沫、接触传播是主要的传播途径。气溶胶传播和消化道等传播途径尚待明确。",
             "generalRemark": "疑似病例数来自国家卫健委数据，目前为全国数据，未分省市自治区等",
             "abroadRemark": "",
-            "marquee": [
-                {
-                    "id": 151,
-                    "marqueeLabel": "公告",
-                    "marqueeContent": "免费加入孕妇答疑社群",
-                    "marqueeLink": "https://mama.dxy.com/dispatch-jian-qun-bao?source=2"
-                }
-            ],
-            "updateTime": 1581222891235
+            "marquee": [],
+            "quanguoTrendChart": [],
+            "hbFeiHbTrendChart": [],
+            "updateTime": 1581342437543
         }
     ],
     "success": true
