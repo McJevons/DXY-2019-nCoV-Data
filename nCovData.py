@@ -15,7 +15,7 @@ class nCovData():
     def __init__(self, filename):
         self.data = pd.read_csv(filename)
 
-    def get_df_by_cities(self, cities):
+    def get_df_by_cities(self, *cities):
         df = self.data[[
             'cityName', 'city_confirmedCount', 'city_suspectedCount',
             'city_curedCount', 'city_deadCount', 'updateTime'
@@ -34,8 +34,9 @@ class nCovData():
 
             df_cities = df_cities.append(df_city)
 
+        df_cities = df_cities.pivot(columns='cityName').fillna(0)
+
         return df_cities
 
     def get_full_df(self):
         return self.data
-
