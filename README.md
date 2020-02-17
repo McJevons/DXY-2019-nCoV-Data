@@ -10,7 +10,7 @@
 
 #### CSV文件列表
 1. 全国数据[DXYOverall.csv](csv/DXYOverall.csv)
-2. 地区数据[DXYArea.csv](csv/DXYArea.csv)
+2. 地区数据[DXYArea.csv](csv/DXYArea.csv)（包含英文城市名）
 3. 新闻数据[DXYNews.csv](csv/DXYNews.csv)
 4. 谣言数据[DXYRumors.csv](csv/DXYRumors.csv)
 
@@ -39,5 +39,7 @@
    功能：参考[此处](https://github.com/jianxu305/nCov2019_analysis/blob/master/src/demo.pdf)。
 2. [lyupin/Visualize-DXY-2019-nCov-Data](https://github.com/lyupin/Visualize-DXY-2019-nCov-Data)  
    功能：参考[此处](https://github.com/lyupin/Visualize-DXY-2019-nCov-Data/blob/master/readme.md)。
+3. [Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-](https://github.com/Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-)  
+   功能：参考[此处](https://github.com/Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-/blob/master/README.md)
 
 **祝大家一切都好。**

@@ -17,7 +17,7 @@ The data will be published hourly.
 
 #### CSV File List
 1. Overall Data [DXYOverall.csv](csv/DXYOverall.csv)
-2. Regional Data [DXYArea.csv](csv/DXYArea.csv)
+2. Regional Data [DXYArea.csv](csv/DXYArea.csv)(Including city names in English)
 3. News [DXYNews.csv](csv/DXYNews.csv)
 4. Rumors [DXYRumors.csv](csv/DXYRumors.csv)
 
@@ -65,5 +65,7 @@ This project will help you to directly load data into R from either GitHub Data 
    Features: See [here](https://github.com/jianxu305/nCov2019_analysis/blob/master/src/demo.pdf).
 2. [lyupin/Visualize-DXY-2019-nCov-Data](https://github.com/lyupin/Visualize-DXY-2019-nCov-Data)  
    Features: See [here](https://github.com/lyupin/Visualize-DXY-2019-nCov-Data/blob/master/readme.md).
+3. [Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-](https://github.com/Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-)  
+   Features: See [here](https://github.com/Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-/blob/master/README.md)
 
 **Wish you all the best.**
